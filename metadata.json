@@ -1,0 +1,6 @@
+{
+  "name": "The Oakridge Hotel & Suites Bangalore",
+  "description": "Luxury 5-star hotel and suites booking website in Bangalore featuring modern rooms, fine dining, world-class amenities, and prime MG Road location.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
